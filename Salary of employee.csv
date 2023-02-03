@@ -1,10 +1,10 @@
-Name ,Position,Salary
-Nguyen Van A,Leader ,10000
-Nguyen Van B ,Accountant_1,3000
+Name,Position,Salary
+Nguyen Van A,Leader,10000
+Nguyen Van B,Accountant_1,3000
 Tran Thi C,Accountant_2,4500
-Le D ,Engineer_1,3500
+Le D,Engineer_1,3500
 Tran E,Engineer_2,3500
-Tran The H ,Staff_1,2000
-Trinh H ,Staff_2,2500
-Cao M ,Data analyst ,3000
+Tran The H,Staff_1,2000
+Trinh H,Staff_2,2500
+Cao M,Data analyst,3000
 Tran T,Data engineer,4000
